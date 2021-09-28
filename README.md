@@ -12,15 +12,14 @@ I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ```
 ## Packages
-
-bcrypt
-connect-session-sequelize
-dotenv
-express
-express-session
-express-handlebars
-mysql2
-sequelize
+- bcrypt
+- connect-session-sequelize
+- dotenv
+- express
+- express-session
+- express-handlebars
+- mysql2
+- sequelize
 
 ## Questions
 
